@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-
       title: 'Shopping App UI',
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
